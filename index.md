@@ -15,7 +15,11 @@ Dose is free for three medications; **Dose, in full** is a single payment that
 adds as many medications as you need and lets you share or print the report for
 your doctor. It is never a subscription.
 
-**Requires iOS 26** or later, on iPhone.
+Dose is also on your wrist and on your Home Screen: there is an Apple Watch app,
+and widgets for the Home Screen and the Lock Screen.
+
+**Requires iOS 26** or later, on iPhone. The watch app needs watchOS 26 on a
+paired Apple Watch.
 
 ## How to
 
@@ -44,6 +48,39 @@ you have taken one, or **Skip** if you are not going to. If you took a dose
 earlier and forgot to say so, tap the dose and choose the time you actually took
 it. A mistake can be taken back from the same place.
 
+### Bring your medicines in from Health
+
+1. Open **Settings** in Dose.
+2. Tap **Import from Health**.
+3. iPhone asks which medications Dose may read. Choose the ones you want, then
+   pick them from the list Dose shows you.
+
+Dose brings in their names, their reminder times, and the doses recorded in
+Health over the past year, so you do not have to type them again. It only ever
+reads from Health, and only when you tap that button.
+
+### Put today's doses on your Home Screen
+
+Touch and hold an empty part of the Home Screen, tap **Edit ▸ Add Widget**, find
+**Dose**, and choose a size. The same widget can go on the Lock Screen: touch and
+hold the Lock Screen, tap **Customise**, then **Add widgets**.
+
+The widget shows what is due next, and you can take a dose from it without
+opening the app.
+
+### Use Dose on your Apple Watch
+
+If your watch is paired with your iPhone, Dose installs on it automatically —
+check **Watch ▸ All Apps** on your iPhone if you do not see it. It lists today's
+doses and lets you take or skip each one; what you tap on the watch goes straight
+back to your iPhone.
+
+### Ask Siri
+
+Say "What do I take today?" or "What's next?", or tell Siri you have taken
+something. The same three actions are in the **Shortcuts** app, so you can put
+them in a shortcut or an automation of your own.
+
 ### Make the report for your doctor
 
 1. Open **Settings** in Dose.
@@ -64,14 +101,26 @@ recorded — and hands them to the iPhone share sheet, so you can save them to
 Files, print them, or send them to a doctor or pharmacist. Export is free and
 always will be.
 
+### Save a backup, or move to a new iPhone
+
+1. Open **Settings** in Dose.
+2. Tap **Save a backup**, and put the file somewhere you will find it again —
+   Files, or iCloud Drive.
+
+On the new iPhone, install Dose, then open **Settings ▸ Restore from a backup**
+and choose the file. Dose asks whether to replace everything or to add only what
+is missing. Backups are free.
+
 ## Questions people ask
 
 ### Is my data backed up?
 
 Dose keeps your data on your iPhone. If your iPhone backs up to iCloud or to a
 computer, your Dose data is included in that backup, and restoring the backup
-brings it back. Dose does not run a backup of its own. If you delete the app,
-its data is deleted with it, so make an export first if you want to keep a copy.
+brings it back. Dose does not back anything up on its own, and there is no
+account holding a copy — so if you want one of your own, use **Save a backup**
+above, or export your history. If you delete the app, its data is deleted
+with it.
 
 ### Where is my data?
 

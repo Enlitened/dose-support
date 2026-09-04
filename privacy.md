@@ -97,15 +97,21 @@ spreadsheets — your medications, and every dose you have recorded — and hand
 them to the standard iOS share sheet, so you can save them to Files, print them,
 or send them to a doctor or pharmacist.
 
-Sharing a report or an export is the only way your Dose data leaves the device,
-and it happens only when you tap one of those buttons and choose somewhere to send
-it. Dose does not upload the files, does not keep a copy anywhere but your device,
-and has no idea where you sent them. Once a file is in another app, or attached to
-an email, it is covered by whatever handles it next rather than by this policy.
+Settings also has **Save a backup**, which writes everything Dose holds into a
+single file and hands it to the same share sheet, and **Restore from a backup**,
+which reads such a file back in. A backup is built on your device from data that
+was already there, and it goes only where you send it.
 
-The export is free and always will be, and it holds everything the report does.
-It is your own health record, and the way out of the app should never be
-something you have to buy.
+Sharing a report, an export or a backup is the only way your Dose data leaves the
+device, and it happens only when you tap one of those buttons and choose somewhere
+to send it. Dose does not upload the files, does not keep a copy anywhere but your
+device, and has no idea where you sent them. Once a file is in another app, or
+attached to an email, it is covered by whatever handles it next rather than by
+this policy.
+
+The export and the backup are free and always will be, and the export holds
+everything the report does. It is your own health record, and the way out of the
+app should never be something you have to buy.
 
 ## Children
 
