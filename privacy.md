@@ -6,7 +6,7 @@ description: What Caplet stores, where it keeps it, and what it never does.
 
 # Caplet — Privacy Policy
 
-_Last updated: 4 September 2026_
+_Last updated: 27 September 2026_
 
 Caplet does not collect your data. There is no account, no analytics, no
 advertising, and no server.
@@ -59,6 +59,43 @@ Health, and never sends what it read anywhere. You can withdraw the access at an
 time under Health ▸ Sharing ▸ Apps, and Caplet keeps working with what it already
 has.
 
+## Camera and photos
+
+Caplet uses the camera in two places, and only when you tap them: **Scan the
+label**, which reads the name, strength and directions off a pharmacy label to fill
+in a new medication, and **Add a photo**, which keeps a picture of the box, the
+bottle or the tablet beside the medication's name. iOS asks for your permission the
+first time either is used.
+
+A label is read on your device by Apple's text recognition, and the picture is
+thrown away as soon as it has been read. A photo you add is made small and stored
+in Caplet's local database with the medication, like everything else; it is
+included in a backup you save and printed beside the medication on the large-print
+list, and nowhere else. You can also choose a picture from your photo library
+instead, through iOS's own picker, which shows Caplet only the one picture you
+choose. Caplet never sends anything from the camera or your photos anywhere: a photo
+leaves the device only inside a backup or a large-print list that you choose to share.
+
+## Letting someone know
+
+In Settings you can choose **Someone to tell** — a daughter, a neighbour, a carer.
+It is chosen through iOS's own contact picker, which shows Caplet only the one
+contact you pick and gives it no access to the rest of your contacts; Caplet keeps
+that person's name and phone number, on your device and in a backup you save, and
+nothing else about them.
+
+Once every dose of the day has been taken, Today offers a button that writes that
+person a text: "I have taken all my medicines for today." It opens in Apple's own
+Messages, where you can change it, and it is sent only if you press Send. The text
+names no medicine, and Caplet sends nothing itself — there is no server for it to
+send from. Remove the person in Settings and the button goes with them.
+
+## Your day
+
+If you set a dose "with breakfast" or "at bedtime", the times you get up, eat and go
+to bed, and any day you say you started late, are kept on your device with
+everything else. They are used to work out when those doses are due, and nowhere else.
+
 ## Widgets and Apple Watch
 
 The Home Screen and Lock Screen widgets show today's doses and let you take one
@@ -102,9 +139,10 @@ single file and hands it to the same share sheet, and **Restore from a backup**,
 which reads such a file back in. A backup is built on your device from data that
 was already there, and it goes only where you send it.
 
-Sharing a report, an export or a backup is the only way your Caplet data leaves the
-device, and it happens only when you tap one of those buttons and choose somewhere
-to send it. Caplet does not upload the files, does not keep a copy anywhere but your
+Sharing a report, an export or a backup — or the Fill the box page, the large-print
+list of your medications, or the text to the person you chose to tell — is the only
+way your Caplet data leaves the device, and it happens only when you tap one of
+those buttons and choose somewhere to send it. Caplet does not upload the files, does not keep a copy anywhere but your
 device, and has no idea where you sent them. Once a file is in another app, or
 attached to an email, it is covered by whatever handles it next rather than by
 this policy.

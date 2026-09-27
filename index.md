@@ -48,6 +48,71 @@ you have taken one, or **Skip** if you are not going to. If you took a dose
 earlier and forgot to say so, tap the dose and choose the time you actually took
 it. A mistake can be taken back from the same place.
 
+### Scan a pharmacy label
+
+When you add a medicine, tap **Scan the label** and hold the label flat in front of
+the camera, then tap **Take the picture**. Caplet fills in the name, the strength
+and the directions it could read, for you to check before you save. The picture is
+read on your iPhone and not kept. Without a camera, tap **Choose a photo instead**.
+
+### Add a photo of a medicine
+
+Open a medicine, tap **Edit**, then **Add a photo**. Take a picture of the box, the
+bottle or one tablet, or choose one from your photos. It appears beside the name on
+Today, on your list and in the pill box. **Remove photo** takes it off again.
+
+### Fill a weekly pill box
+
+Tap **Fill the box** on **Today** or on **Medications**. Caplet lists the next seven
+days, each with its **Morning**, **Midday**, **Evening** and **Bedtime** compartments,
+and what goes in each and how much — including a dose that steps down over the
+weeks, or a different amount on some days. **Print or share** makes a page of it.
+
+If you take your doses from the box, turn on **Take doses by compartment** in
+**Settings** — or answer **Yes, I fill a pill box** when Caplet first opens. Today
+then puts your doses under the four compartments, with one button each — **Take
+the morning doses** — and still shows every dose on its own.
+
+### Did I already take it?
+
+Tap **Did I already take it?** on **Today** for a plain answer about each
+medicine. If you go to take a dose too soon after the last one, Caplet asks first
+and says when the last one was taken. **No, I already took it** records nothing.
+
+### Take a dose with a meal or at bedtime
+
+When you add or edit a medicine, tap one of its times, then **Around my day**.
+Choose **Getting up**, **Breakfast**, **Lunch**, **Dinner** or **Going to bed**,
+then when around it — for example **30 minutes before breakfast** or **With
+dinner** — and tap **Done**. The dose is due at that point of your day, and Today
+and the reminder say so.
+
+Tell Caplet when your day happens in **Settings**, under **Your day** — tap
+**Change your day**, set the times, and tap **Save**. Every dose set around a time
+you change moves with it, from today; the days before keep the times they had.
+
+### I'm up late today
+
+Slept in? While a dose set around getting up or breakfast is still to take,
+**Today** shows **I'm up late today**. Choose how much later — from 30 minutes to
+3 hours — and this morning's doses, and their reminders, move for today only.
+Tomorrow starts as usual. **Back to my usual time** undoes it.
+
+### Let someone know
+
+In **Settings**, under **Someone to tell**, tap **Choose from Contacts** and pick
+a person with a phone number. Once every dose of the day has been taken, **Today**
+shows **Tell … today's doses are taken**. Tap it and Messages opens with the text
+"I have taken all my medicines for today", ready for you to change or send. Nothing
+is sent until you press **Send**. **Remove** in Settings forgets the person.
+
+### Print a large-print list
+
+On **Medications**, tap **Make a large-print list**. Caplet makes a page of what
+you take — each medicine with its photo, how much, when, what it is for and who
+prescribed it — in large print, for the fridge door, a carer or a paramedic.
+**Share** prints or sends it. It is free.
+
 ### Bring your medicines in from Health
 
 1. Open **Settings** in Caplet.
